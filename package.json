@@ -1,7 +1,7 @@
 {
   "name": "paa-conf-explorer",
   "version": "1.0.0",
-  "description": "Extract session and paper details for 2018 PAA annual meeting into a giant CSV",
+  "description": "Extract session/paper details for 2018 PAA annual meeting into a CSV",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,8 +13,6 @@
     "axios": "^0.18.0",
     "csv-parse": "^2.0.4",
     "jsdom": "^11.6.2",
-    "json2csv": "^4.0.2",
-    "lda": "^0.2.0",
-    "lodash": "^4.17.5"
+    "json2csv": "^4.0.2"
   }
 }
