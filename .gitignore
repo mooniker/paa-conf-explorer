@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# no data extracted from website
+.csv
